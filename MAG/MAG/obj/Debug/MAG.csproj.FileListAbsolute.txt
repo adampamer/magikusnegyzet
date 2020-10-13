@@ -1,0 +1,37 @@
+D:\Renyák Dávid István\MAG\MAG\bin\Debug\MAG.exe.config
+D:\Renyák Dávid István\MAG\MAG\bin\Debug\MAG.exe
+D:\Renyák Dávid István\MAG\MAG\bin\Debug\MAG.pdb
+D:\Renyák Dávid István\MAG\MAG\obj\Debug\MAG.exe
+D:\Renyák Dávid István\MAG\MAG\obj\Debug\MAG.pdb
+D:\Renyák Dávid István\MAG\MAG\obj\Debug\MAG.csprojResolveAssemblyReference.cache
+E:\C# programok\MAG\MAG\bin\Debug\MAG.exe.config
+E:\C# programok\MAG\MAG\obj\Debug\MAG.exe
+E:\C# programok\MAG\MAG\obj\Debug\MAG.pdb
+E:\C# programok\MAG\MAG\bin\Debug\MAG.exe
+E:\C# programok\MAG\MAG\bin\Debug\MAG.pdb
+E:\C# programok\MAG\MAG\obj\Debug\MAG.csprojResolveAssemblyReference.cache
+J:\C# programok\MAG\MAG\bin\Debug\MAG.exe.config
+J:\C# programok\MAG\MAG\obj\Debug\MAG.exe
+J:\C# programok\MAG\MAG\obj\Debug\MAG.pdb
+J:\C# programok\MAG\MAG\bin\Debug\MAG.exe
+J:\C# programok\MAG\MAG\bin\Debug\MAG.pdb
+J:\C# programok\MAG\MAG\obj\Debug\MAG.csprojResolveAssemblyReference.cache
+F:\C# programok\MAG\MAG\bin\Debug\MAG.exe.config
+F:\C# programok\MAG\MAG\obj\Debug\MAG.exe
+F:\C# programok\MAG\MAG\obj\Debug\MAG.pdb
+F:\C# programok\MAG\MAG\bin\Debug\MAG.exe
+F:\C# programok\MAG\MAG\bin\Debug\MAG.pdb
+F:\C# programok\MAG\MAG\obj\Debug\MAG.csprojResolveAssemblyReference.cache
+I:\C# programok\MAG\MAG\bin\Debug\MAG.exe.config
+I:\C# programok\MAG\MAG\obj\Debug\MAG.exe
+I:\C# programok\MAG\MAG\obj\Debug\MAG.pdb
+I:\C# programok\MAG\MAG\bin\Debug\MAG.exe
+I:\C# programok\MAG\MAG\bin\Debug\MAG.pdb
+I:\C# programok\MAG\MAG\obj\Debug\MAG.csprojResolveAssemblyReference.cache
+G:\C# programok\MAG\MAG\bin\Debug\MAG.exe.config
+G:\C# programok\MAG\MAG\bin\Debug\MAG.exe
+G:\C# programok\MAG\MAG\bin\Debug\MAG.pdb
+G:\C# programok\MAG\MAG\obj\Debug\MAG.csprojResolveAssemblyReference.cache
+G:\C# programok\MAG\MAG\obj\Debug\MAG.csproj.CoreCompileInputs.cache
+G:\C# programok\MAG\MAG\obj\Debug\MAG.exe
+G:\C# programok\MAG\MAG\obj\Debug\MAG.pdb
